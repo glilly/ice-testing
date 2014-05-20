@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:cdsListSpecificationFile xmlns:ns2="org.cdsframework.util.support.data.cds.list">
+    <listId>94c758ebbd53c5216c0005edb0936be4</listId>
+    <code>SupportedEvaluationReasonConcept</code>
+    <name>Supported Evaluation Reason Concepts</name>
+    <listType>CODE_SYSTEM</listType>
+    <codeSystem>2.16.840.1.113883.3.795.12.100.3</codeSystem>
+    <codeSystemName>ICE Evaluation Reason</codeSystemName>
+    <cdsListItem>
+        <cdsListItemKey>ABOVE_MAX_AGE_VACCINE</cdsListItemKey>
+        <cdsListItemValue>Above Maximum Age for Vaccine</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>ABOVE_REC_AGE</cdsListItemKey>
+        <cdsListItemValue>Above Recommended Age</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>ABOVE_REC_AGE_SERIES</cdsListItemKey>
+        <cdsListItemValue>Above Recommended Age for Series</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>OUTSIDE_FLU_VAC_SEASON</cdsListItemKey>
+        <cdsListItemValue>Administered Outside of Influenza Vaccine Season</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>BELOW_MINIMUM_AGE_FINAL_DOSE</cdsListItemKey>
+        <cdsListItemValue>Below Minimum Age for Final Dose</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>BELOW_MINIMUM_AGE_SERIES</cdsListItemKey>
+        <cdsListItemValue>Below Minimum Age for Series</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>BELOW_MINIMUM_AGE_VACCINE</cdsListItemKey>
+        <cdsListItemValue>Below Minimum Age for Vaccine</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>BELOW_MINIMUM_INTERVAL</cdsListItemKey>
+        <cdsListItemValue>Below Minimum Interval</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>BELOW_MIN_INTERVAL_PCV_PPSV</cdsListItemKey>
+        <cdsListItemValue>Below Minimum Interval between PCV and PPSV</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>BELOW_REC_AGE_SERIES</cdsListItemKey>
+        <cdsListItemValue>Below Recommended Age for Series</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>BOOSTER_ONLY</cdsListItemKey>
+        <cdsListItemValue>Booster Only</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>DISEASE_DOCUMENTED</cdsListItemKey>
+        <cdsListItemValue>Disease Documented</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>DUPLICATE_SAME_DAY</cdsListItemKey>
+        <cdsListItemValue>Duplicate Same Day</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>EXTRA_DOSE</cdsListItemKey>
+        <cdsListItemValue>Extra Dose</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>INSUFFICIENT_ANTIGEN</cdsListItemKey>
+        <cdsListItemValue>Insufficient Antigen</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>INVALID_AGE</cdsListItemKey>
+        <cdsListItemValue>Invalid Age</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>NOT_DEFINED</cdsListItemKey>
+        <cdsListItemValue>Not Defined</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>NOT_LICENSED_FOR_MALES</cdsListItemKey>
+        <cdsListItemValue>Not Licensed for Males</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>PRIOR_TO_DOB</cdsListItemKey>
+        <cdsListItemValue>Prior to DOB</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>PROOF_OF_IMMUNITY</cdsListItemKey>
+        <cdsListItemValue>Proof of Immunity</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>TOO_EARLY_LIVE_VIRUS</cdsListItemKey>
+        <cdsListItemValue>Too Early Live Virus</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>VACCINE_NOT_MEMBER_OF_SERIES</cdsListItemKey>
+        <cdsListItemValue>Vaccine Not Member of Series</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>WAITING_FOR_EVALUATION</cdsListItemKey>
+        <cdsListItemValue>Waiting for Evaluation</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>WRONG_GENDER</cdsListItemKey>
+        <cdsListItemValue>Wrong Gender</cdsListItemValue>
+    </cdsListItem>
+</ns2:cdsListSpecificationFile>

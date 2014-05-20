@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:cdsListSpecificationFile xmlns:ns2="org.cdsframework.util.support.data.cds.list">
+    <listId>20da8f23dddb94fbb57b3980c55a393a</listId>
+    <code>SupportedRecommendationReasonConcept</code>
+    <name>Supported Recommendation Reason Concepts</name>
+    <listType>CODE_SYSTEM</listType>
+    <codeSystem>2.16.840.1.113883.3.795.12.100.6</codeSystem>
+    <codeSystemName>ICE Recommendation Reason</codeSystemName>
+    <cdsListItem>
+        <cdsListItemKey>ABOVE_AGE_MAY_COMPLETE</cdsListItemKey>
+        <cdsListItemValue>Above Recommended Age But May Complete Series</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>COMPLETE</cdsListItemKey>
+        <cdsListItemValue>Complete</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>DISEASE_DOCUMENTED</cdsListItemKey>
+        <cdsListItemValue>Disease Documented</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>DUE_IN_FUTURE</cdsListItemKey>
+        <cdsListItemValue>Due in Future</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>DUE_NOW</cdsListItemKey>
+        <cdsListItemValue>Due Now</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>HIGH_RISK</cdsListItemKey>
+        <cdsListItemValue>High Risk</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>IGNORE</cdsListItemKey>
+        <cdsListItemValue>Ignore</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>NOT_SPECIFIED</cdsListItemKey>
+        <cdsListItemValue>Not Specified</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>OUTSIDE_FLU_SEASON</cdsListItemKey>
+        <cdsListItemValue>Outside of Influenza Vaccine Season</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>PROOF_OF_IMMUNITY</cdsListItemKey>
+        <cdsListItemValue>Proof of Immunity</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>COMPLETE_HIGH_RISK</cdsListItemKey>
+        <cdsListItemValue>Series Complete Unless High Risk</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>TOO_OLD</cdsListItemKey>
+        <cdsListItemValue>Too Old</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>TOO_OLD_HIGH_RISK</cdsListItemKey>
+        <cdsListItemValue>Too Old - High Risk Only</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>VAC_GROUP_NO_LONGER_REC</cdsListItemKey>
+        <cdsListItemValue>Vaccine Group No Longer Recommended</cdsListItemValue>
+    </cdsListItem>
+    <cdsListItem>
+        <cdsListItemKey>WRONG_GENDER</cdsListItemKey>
+        <cdsListItemValue>Wrong Gender</cdsListItemValue>
+    </cdsListItem>
+</ns2:cdsListSpecificationFile>
