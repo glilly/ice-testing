@@ -41,20 +41,26 @@ http://ice.vistaewd.net/ice/11?format=xml
 Here is the output of domo3 from the same xml:
 
 http://ice.vistaewd.net:9080/ice/11?format=global
+
 or
+
 http://ice.vistaewd.net/ice/11?format=global
 
 Here is the output of peel :
 
 http://ice.vistaewd.net:9080/ice/11?format=simple
+
 or
+
 http://ice.vistaewd.net/ice/11?format=simple
 
 And here is the final report along with the RETURN array, which contains 
 everything you see from peel as well as the VistA data which links to it... 
 
 http://ice.vistaewd.net:9080/ice/11?format=report&debug=1
+
 or
+
 http://ice.vistaewd.net/ice/11?format=report&debug=1
 
 you can also try patient 58 or 5 instead of 11 to see some of the variety
